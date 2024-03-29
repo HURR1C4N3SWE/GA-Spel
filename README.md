@@ -15,7 +15,7 @@ Dina poäng räknas på hur många fiender du besegrar. (funkar ej)
 
 Installation:
 Ladda ner spelkällkoden från GitHub-repository.
-Kör spelet på din dator genom att dubbelklicka på körbar filen.
+Kör spelet på din dator genom att dubbelklicka på körbara exe filen.
 
 Krav:
 Operativsystem: Windows, MacOS, Linux
